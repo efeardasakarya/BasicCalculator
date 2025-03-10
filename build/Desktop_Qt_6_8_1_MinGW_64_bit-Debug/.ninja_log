@@ -1,0 +1,39 @@
+# ninja log v6
+10	578	7598027842482074	Calculator_autogen/timestamp	62f46fbce8cc5b4e
+10	578	7598027842482074	Calculator_autogen/mocs_compilation.cpp	62f46fbce8cc5b4e
+10	578	7598027842482074	C:/Users/HP/Desktop/Efe/QT Projelerim/Calculator/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Calculator_autogen/timestamp	62f46fbce8cc5b4e
+599	2072	7598015040060558	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	79bcb44344bc2963
+10	578	7598027842482074	C:/Users/HP/Desktop/Efe/QT Projelerim/Calculator/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	62f46fbce8cc5b4e
+579	1916	7598027843213120	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.obj	f7c0d0223ceb79d6
+2072	2300	7598015054856789	Calculator.exe	a97ddcf940906a46
+587	1952	7598027843295226	CMakeFiles/Calculator.dir/main.cpp.obj	3e0f0ae4ef95d633
+10	154	7598028016789941	Calculator_autogen/timestamp	62f46fbce8cc5b4e
+10	154	7598028016789941	Calculator_autogen/mocs_compilation.cpp	62f46fbce8cc5b4e
+10	154	7598028016789941	C:/Users/HP/Desktop/Efe/QT Projelerim/Calculator/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Calculator_autogen/timestamp	62f46fbce8cc5b4e
+10	154	7598028016789941	C:/Users/HP/Desktop/Efe/QT Projelerim/Calculator/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	62f46fbce8cc5b4e
+155	1520	7598028018247439	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	79bcb44344bc2963
+1520	1725	7598028031894113	Calculator.exe	a97ddcf940906a46
+10	169	7598030189875428	Calculator_autogen/timestamp	62f46fbce8cc5b4e
+10	169	7598030189875428	Calculator_autogen/mocs_compilation.cpp	62f46fbce8cc5b4e
+10	169	7598030189875428	C:/Users/HP/Desktop/Efe/QT Projelerim/Calculator/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Calculator_autogen/timestamp	62f46fbce8cc5b4e
+10	169	7598030189875428	C:/Users/HP/Desktop/Efe/QT Projelerim/Calculator/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	62f46fbce8cc5b4e
+170	1550	7598030191618153	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	79bcb44344bc2963
+1550	1765	7598030205401978	Calculator.exe	a97ddcf940906a46
+11	188	7598032502839308	Calculator_autogen/timestamp	62f46fbce8cc5b4e
+11	188	7598032502839308	Calculator_autogen/mocs_compilation.cpp	62f46fbce8cc5b4e
+11	188	7598032502839308	C:/Users/HP/Desktop/Efe/QT Projelerim/Calculator/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Calculator_autogen/timestamp	62f46fbce8cc5b4e
+11	188	7598032502839308	C:/Users/HP/Desktop/Efe/QT Projelerim/Calculator/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	62f46fbce8cc5b4e
+189	1596	7598032504617532	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	79bcb44344bc2963
+1596	1816	7598032518632665	Calculator.exe	a97ddcf940906a46
+10	180	7598032686543774	Calculator_autogen/timestamp	62f46fbce8cc5b4e
+10	180	7598032686543774	Calculator_autogen/mocs_compilation.cpp	62f46fbce8cc5b4e
+10	180	7598032686543774	C:/Users/HP/Desktop/Efe/QT Projelerim/Calculator/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Calculator_autogen/timestamp	62f46fbce8cc5b4e
+10	180	7598032686543774	C:/Users/HP/Desktop/Efe/QT Projelerim/Calculator/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	62f46fbce8cc5b4e
+181	1582	7598032688255446	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	79bcb44344bc2963
+1582	1788	7598032702273687	Calculator.exe	a97ddcf940906a46
+10	175	7598032924496960	Calculator_autogen/timestamp	62f46fbce8cc5b4e
+10	175	7598032924496960	Calculator_autogen/mocs_compilation.cpp	62f46fbce8cc5b4e
+10	175	7598032924496960	C:/Users/HP/Desktop/Efe/QT Projelerim/Calculator/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Calculator_autogen/timestamp	62f46fbce8cc5b4e
+10	175	7598032924496960	C:/Users/HP/Desktop/Efe/QT Projelerim/Calculator/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	62f46fbce8cc5b4e
+175	1603	7598032926151852	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	79bcb44344bc2963
+1603	1819	7598032940429090	Calculator.exe	a97ddcf940906a46
